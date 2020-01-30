@@ -1,5 +1,4 @@
-# say_hello ("Gabriela")
-#say_hello_x_times(4)
-puts "hello, Gabriela"
-end
+def say_hello (name)
+  puts "Hello #{name}!"
 
+end
