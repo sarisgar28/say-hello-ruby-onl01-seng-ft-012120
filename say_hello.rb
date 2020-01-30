@@ -4,3 +4,4 @@ def say_hello (name = "friend")
 end
 
 say_hello
+
